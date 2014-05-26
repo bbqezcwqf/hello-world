@@ -3,4 +3,4 @@ hello-world
 
 hello world repo
 
-foo
+foo baz bo mo
